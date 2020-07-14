@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi everyone, I'm Mr¤KayJayDee
 
-<!--
-**Mr-KayJayDee/Mr-KayJayDee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a french 17 years old developper I always want to learn new languages and new things here are a few informations about me. 😉
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Amandine, a pure and efficient discord bot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning the Java to make an Android app.
+
+- 👯 I’m looking to collaborate on ambitious project.
+
+- 🤔 I’m looking for help with my project, i have many side project but i can't work on them beacuse i have no one to help me.
+
+- 💬 Ask me about my life everyday, uhh... Anyway don't ask me i do nothing everyday 😅
+
+- 📫 How to reach me: You can contact me with my mail : killian.dalcin@gmail.com or directly on my discord https://discord.gg/Uqd2sQP
+
+- 😄 Pronouns: I'm known as DJKyten or maybe Amandine, but now my I tell real name is Killian', and my username is Mr¤KayJayDee
+
+- ⚡ Fun fact: I have a shity computer but I have to work with and if one day I get famous I would remember that is started with shit and ended good.
+
+THANKS ALL AND ENJOY !!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
