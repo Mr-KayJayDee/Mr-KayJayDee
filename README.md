@@ -14,9 +14,9 @@
 
 - 📫 How to reach me: You can contact me with my mail : killian.dalcin@gmail.com or directly on my discord https://discord.gg/Uqd2sQP
 
-- 😄 Pronouns: I'm known as DJKyten or maybe Amandine, but now my I tell real name is Killian', and my username is Mr¤KayJayDee
+- 😄 Pronouns: I'm known as DJKyten or maybe Amandine, but now I tell you my real name: Killian', and my username is Mr¤KayJayDee
 
-- ⚡ Fun fact: I have a shity computer but I have to work with and if one day I get famous I would remember that is started with shit and ended good.
+- ⚡ Fun fact: I have a shity computer but I have to work with it and if one day I get famous I would remember that all of my work started with shit and ended good.
 
 THANKS ALL AND ENJOY !!
 
