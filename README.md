@@ -10,31 +10,19 @@
 
 *⚡ Fun fact: I have a shity computer but I have to work with it and if one day I get famous I would remember that all of my work started with shit and ended good.*
 
-<!-- # Statistics
-
-![ViewsCount](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=red)
-
-I created my account **{{ ACCOUNT_AGE }}** years ago.
-
-I pushed in total **{{ COMMITS }}** commits (includes private repositories)
-
-I opened **{{ ISSUES }}** issues on others developpers repositories.
-
-I submitted **{{ PULL_REQUESTS }}** pull requests on others developpers repositories.
-
-I received **{{ STARS }}** stars on my repositories.
-
-I own **{{ REPOSITORIES }}** repositories (includes private repositories)
-
-I contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
-<br> -->
 # Links:
 
-Amandine Discord Bot
-
-<a href="https://discord.gg/Uqd2sQP"><img src="https://discord.com/api/guilds/527836578912010251/widget.png" alt="Amandine support server"/></a>
-
-Mr¤KayJayDee's Community
-
-<a href="https://discord.gg/7SBruKCTvQ"><img src="https://discord.com/api/guilds/833309512412299276/widget.png" alt="Amandine support server"/></a>
-
+- Discord: Mr¤KayJayDee#8961
+- Shop website: https://killiandalcin.square.site
+- Support Server: https://discord.gg/5ZSGFYtnqw
+- Shop Server: https://discord.gg/X2CHqpFPjw
+- Instagram: [@killian.dalcin](https://www.instagram.com/killian.dalcin)
+- Snapchat: [@killian.dalcin](https://www.snapchat.com/add/killian.dalcin)
+- Twitter: [@killiandalcin](https://twitter.com/killiandalcin)
+- Github: https://github.com/Mr-KayJayDee/
+- Portfolio: https://portfolio.mrkayjaydee.xyz
+- Fiverr: https://www.fiverr.com/mrkayjaydee
+- Shoppy: https://shoppy.gg/@MrKayJayDee
+- Email: [killian.dalcin@gmail.com](mailto:killian.dalcin@gmail.com)
+- Email pro: [mrkayjaydee@gmail.com](mailto:mrkayjaydee@gmail.com)
+- Email business: [contact@mrkayjaydee.xyz](mailto:contact@mrkayjaydee.xyz)
