@@ -30,13 +30,13 @@
 # My Skills
 
 <p align="center"> 
-   Programming languages><br></br>
+   Programming languages<br></br>
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,js,md,nginx,nodejs,ts" />
   </a>
 </p>
 <p align="center"> 
-   Frontend frameworks><br></br>
+   Frontend frameworks<br></br>
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,html,css,electron,figma,vue,wordpress" />
   </a>
