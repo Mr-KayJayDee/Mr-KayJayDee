@@ -1,50 +1,42 @@
 # Hi everyone, I'm Mr¤KayJayDee
 
-### I'm a french 19 years old developper, I always want to learn new languages and new things, here are a few informations about me. 😉
+I'm a French 20-year-old developer who is always eager to learn new languages and explore new things. Here are a few pieces of information about me. 😉
 
-<br>
+### My portfolio is here if you want to see what I'm up to: [portfolio.killiandalcin.fr](http://portfolio.killiandalcin.fr/)
 
-### My portfolio is here if you need to know what i'm doing : http://portfolio.killiandalcin.fr/
+## Links:
 
-<br>
+- **Discord**: Mr¤KayJayDee#8961
+- **Support Server**: [discord.gg/5ZSGFYtnqw](https://discord.gg/5ZSGFYtnqw)
+- **Shop Server**: [discord.gg/X2CHqpFPjw](https://discord.gg/X2CHqpFPjw)
+- **Instagram**: [@killian.dalcin](https://www.instagram.com/killian.dalcin)
+- **Snapchat**: [@killian.dalcin](https://www.snapchat.com/add/killian.dalcin)
+- **Twitter**: [@killiandalcin](https://twitter.com/killiandalcin)
+- **GitHub**: [github.com/Mr-KayJayDee/](https://github.com/Mr-KayJayDee/)
+- **Portfolio**: [portfolio.killiandalcin.fr](https://portfolio.killiandalcin.fr)
+- **Fiverr**: [fiverr.com/mr_kayjaydee](https://www.fiverr.com/mr_kayjaydee)
+- **Email**: [killian.dalcin@gmail.com](mailto:killian.dalcin@gmail.com)
+- **Professional Email**: [contact@killiandalcin.fr](mailto:contact@killiandalcin.fr)
 
-*⚡ Fun fact: I have a shity computer but I have to work with it and if one day I get famous I would remember that all of my work started with shit and ended good.*
-
-# Links:
-
-- Discord: Mr¤KayJayDee#8961
-- Shop website: https://killiandalcin.square.site
-- Support Server: https://discord.gg/5ZSGFYtnqw
-- Shop Server: https://discord.gg/X2CHqpFPjw
-- Instagram: [@killian.dalcin](https://www.instagram.com/killian.dalcin)
-- Snapchat: [@killian.dalcin](https://www.snapchat.com/add/killian.dalcin)
-- Twitter: [@killiandalcin](https://twitter.com/killiandalcin)
-- Github: https://github.com/Mr-KayJayDee/
-- Portfolio: https://portfolio.killiandalcin.fr
-- Fiverr: https://www.fiverr.com/mrkayjaydee
-- Shoppy: https://shoppy.gg/@MrKayJayDee
-- Email: [killian.dalcin@gmail.com](mailto:killian.dalcin@gmail.com)
-- Email pro: [contact@killiandalcin.fr](mailto:contact@killiandalcin.fr)
-- Email business: [contact@mrkayjaydee.xyz](mailto:contact@mrkayjaydee.xyz)
 
 # My Skills
 
 <p align="center"> 
    Programming languages<br></br>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,js,md,nginx,nodejs,ts" />
+    <img src="https://skillicons.dev/icons?i=bash,js,md,nodejs,ts,java,ruby,dart" />
   </a>
 </p>
 <p align="center"> 
    Frontend frameworks<br></br>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,html,css,electron,figma,vue,wordpress" />
+    <img src="https://skillicons.dev/icons?i=angular,html,css,electron,figma,vue,wordpress,rails,flutter,bootstrap,nuxtjs" />
   </a>
 </p>
 <p align="center">
   Databases<br></br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,sqlite,postgres" />
   </a>
 </p>
 <p align="center">
@@ -68,6 +60,6 @@
 <p align="center">
   Dev Tools<br></br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,atom,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,atom,codepen,idea,vscode,androidstudio&perline=6" />
   </a>
 </p>
