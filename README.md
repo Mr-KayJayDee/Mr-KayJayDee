@@ -1,68 +1,97 @@
-# Hi everyone, I'm Mr¤KayJayDee
+<div style="display: flex; flex-direction: row;">
+  <div>
+    <h1>Hi everyone, I'm Mr¤KayJayDee</h1>
+    <p>I'm a French 20-year-old developer who is always eager to learn new languages and explore new things. Here are a few pieces of information about me. 😉</p>
+    <h3>My portfolio is here if you want to see what I'm up to: <a href="http://portfolio.killiandalcin.fr">portfolio.killiandalcin.fr</a>
+    </h3>
+    <img src="github-metrics.svg" alt="Metrics" style="width: 100%; height: auto;" />
+    <h2>Links:</h2>
+    <ul>
+      <li>
+        <strong>Discord:</strong> Mr¤KayJayDee#8961
+      </li>
+      <li>
+        <strong>Support Server:</strong>
+        <a href="https://discord.gg/5ZSGFYtnqw">discord.gg/5ZSGFYtnqw</a>
+      </li>
+      <li>
+        <strong>Shop Server:</strong>
+        <a href="https://discord.gg/X2CHqpFPjw">discord.gg/X2CHqpFPjw</a>
+      </li>
+      <li>
+        <strong>Instagram:</strong>
+        <a href="https://www.instagram.com/killian.dalcin">@killian.dalcin</a>
+      </li>
+      <li>
+        <strong>Snapchat:</strong>
+        <a href="https://www.snapchat.com/add/killian.dalcin">@killian.dalcin</a>
+      </li>
+      <li>
+        <strong>Twitter:</strong>
+        <a href="https://twitter.com/killiandalcin">@killiandalcin</a>
+      </li>
+      <li>
+        <strong>GitHub:</strong>
+        <a href="https://github.com/Mr-KayJayDee/">github.com/Mr-KayJayDee/</a>
+      </li>
+      <li>
+        <strong>Portfolio:</strong>
+        <a href="https://portfolio.killiandalcin.fr">portfolio.killiandalcin.fr</a>
+      </li>
+      <li>
+        <strong>Fiverr:</strong>
+        <a href="https://www.fiverr.com/mr_kayjaydee">fiverr.com/mr_kayjaydee</a>
+      </li>
+      <li>
+        <strong>Email:</strong>
+        <a href="mailto:killian.dalcin@gmail.com">killian.dalcin@gmail.com</a>
+      </li>
+      <li>
+        <strong>Professional Email:</strong>
+        <a href="mailto:contact@killiandalcin.fr">contact@killiandalcin.fr</a>
+      </li>
+    </ul>
+  </div>
+  <div>
+    <a href="https://app.daily.dev/mrkayjaydee">
+      <img src="devcard.svg" width="400" alt="Mr-KayJayDee's Dev Card" />
+    </a>
+  </div>
+</div>
 
-I'm a French 20-year-old developer who is always eager to learn new languages and explore new things. Here are a few pieces of information about me. 😉
-
-### My portfolio is here if you want to see what I'm up to: [portfolio.killiandalcin.fr](http://portfolio.killiandalcin.fr/)
-
-## Links:
-
-- **Discord**: Mr¤KayJayDee#8961
-- **Support Server**: [discord.gg/5ZSGFYtnqw](https://discord.gg/5ZSGFYtnqw)
-- **Shop Server**: [discord.gg/X2CHqpFPjw](https://discord.gg/X2CHqpFPjw)
-- **Instagram**: [@killian.dalcin](https://www.instagram.com/killian.dalcin)
-- **Snapchat**: [@killian.dalcin](https://www.snapchat.com/add/killian.dalcin)
-- **Twitter**: [@killiandalcin](https://twitter.com/killiandalcin)
-- **GitHub**: [github.com/Mr-KayJayDee/](https://github.com/Mr-KayJayDee/)
-- **Portfolio**: [portfolio.killiandalcin.fr](https://portfolio.killiandalcin.fr)
-- **Fiverr**: [fiverr.com/mr_kayjaydee](https://www.fiverr.com/mr_kayjaydee)
-- **Email**: [killian.dalcin@gmail.com](mailto:killian.dalcin@gmail.com)
-- **Professional Email**: [contact@killiandalcin.fr](mailto:contact@killiandalcin.fr)
-
-
-![Metrics](github-metrics.svg)
-
-
-# My Skills
-
-<p align="center"> 
-   Programming languages<br></br>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,js,md,nodejs,ts,java,ruby,dart" />
-  </a>
-</p>
-<p align="center"> 
-   Frontend frameworks<br></br>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,html,css,electron,figma,vue,wordpress,rails,flutter,bootstrap,nuxtjs" />
-  </a>
-</p>
-<p align="center">
-  Databases<br></br>
+<h1>My Skills</h1>
+<p align="center"> Programming languages <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,sqlite,postgres" />
+    <img src="https://skillicons.dev/icons?i=bash,js,md,nodejs,ts,java,ruby,dart" alt="Programming languages icons" />
   </a>
 </p>
-<p align="center">
-  Technologies<br></br>
+<p align="center"> Frontend frameworks <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,bots,figma,nginx" />
+    <img src="https://skillicons.dev/icons?i=angular,html,css,electron,figma,vue,wordpress,rails,flutter,bootstrap,nuxtjs" alt="Frontend frameworks icons" />
   </a>
 </p>
-<p align="center">
-  Socials<br></br>
+<p align="center"> Databases <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,instagram,linkedin,twitter" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,sqlite,postgres" alt="Databases icons" />
   </a>
 </p>
-<p align="center">
-  OSes<br></br>
+<p align="center"> Technologies <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=docker,bots,figma,nginx" alt="Technologies icons" />
   </a>
 </p>
-<p align="center">
-  Dev Tools<br></br>
+<p align="center"> Socials <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,atom,codepen,idea,vscode,androidstudio&perline=6" />
+    <img src="https://skillicons.dev/icons?i=discord,instagram,linkedin,twitter" alt="Socials icons" />
+  </a>
+</p>
+<p align="center"> OSes <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,raspberrypi" alt="OSes icons" />
+  </a>
+</p>
+<p align="center"> Dev Tools <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,atom,codepen,idea,vscode,androidstudio" alt="Dev Tools icons" />
   </a>
 </p>
