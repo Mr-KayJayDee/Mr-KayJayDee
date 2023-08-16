@@ -1,9 +1,9 @@
 <h1>Hi everyone, I'm Mr¤KayJayDee</h1>
 <div align="left">
     <a href="https://app.daily.dev/mrkayjaydee"><img src="devcard.svg" width="256" alt="Mr-KayJayDee's Dev Card" align="right"/></a>
-    <h2>Links:</h2>
     <p>I'm a French 20-year-old developer who is always eager to learn new languages and explore new things. Here are a few pieces of information about me. 😉</p>
     <h3>My portfolio is here if you want to see what I'm up to: <a href="http://portfolio.killiandalcin.fr">portfolio.killiandalcin.fr</a>
+    <h2>Links:</h2>
     </h3>
     <ul>
       <li>
