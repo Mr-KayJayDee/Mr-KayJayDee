@@ -19,6 +19,9 @@ I'm a French 20-year-old developer who is always eager to learn new languages an
 - **Professional Email**: [contact@killiandalcin.fr](mailto:contact@killiandalcin.fr)
 
 
+![Metrics](github-metrics.svg)
+
+
 # My Skills
 
 <p align="center"> 
