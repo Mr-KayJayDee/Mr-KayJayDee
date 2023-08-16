@@ -1,11 +1,10 @@
-<div style="display: flex; flex-direction: row;">
-  <div>
-    <h1>Hi everyone, I'm Mr¤KayJayDee</h1>
+<h1>Hi everyone, I'm Mr¤KayJayDee</h1>
+<div align="left">
+    <a href="https://app.daily.dev/mrkayjaydee"><img src="devcard.svg" width="256" alt="Mr-KayJayDee's Dev Card" align="right"/></a>
+    <h2>Links:</h2>
     <p>I'm a French 20-year-old developer who is always eager to learn new languages and explore new things. Here are a few pieces of information about me. 😉</p>
     <h3>My portfolio is here if you want to see what I'm up to: <a href="http://portfolio.killiandalcin.fr">portfolio.killiandalcin.fr</a>
     </h3>
-    <img src="github-metrics.svg" alt="Metrics" style="width: 100%; height: auto;" />
-    <h2>Links:</h2>
     <ul>
       <li>
         <strong>Discord:</strong> Mr¤KayJayDee#8961
@@ -51,12 +50,6 @@
         <a href="mailto:contact@killiandalcin.fr">contact@killiandalcin.fr</a>
       </li>
     </ul>
-  </div>
-  <div>
-    <a href="https://app.daily.dev/mrkayjaydee">
-      <img src="devcard.svg" width="400" alt="Mr-KayJayDee's Dev Card" />
-    </a>
-  </div>
 </div>
 
 <h1>My Skills</h1>
@@ -95,3 +88,5 @@
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,atom,codepen,idea,vscode,androidstudio" alt="Dev Tools icons" />
   </a>
 </p>
+
+<img src="github-metrics.svg" alt="Metrics" style="width: 100%; height: auto;" />
