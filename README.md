@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Killian Dalcin
+# 👋 Killian
 
 ### Full Stack Developer | JavaScript Expert | Vue.js Specialist
 
