@@ -1,105 +1,83 @@
 <div align="center">
 
-# 👋 Killian
+# 👋 Killian' DAL-CIN
 
-### Full Stack Developer | JavaScript Expert | Vue.js Specialist
+### Hytale Plugin Developer · Kotlin / Java · Freelance Web Dev
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-killiandalcin.fr-blue?style=for-the-badge&logo=globe&logoColor=white)](https://killiandalcin.fr/)
-[![Gitea](https://img.shields.io/badge/Gitea-gitea.kamisama.ovh-green?style=for-the-badge&logo=gitea&logoColor=white)](https://gitea.kamisama.ovh/kayjaydee)
-[![Email](https://img.shields.io/badge/Email-contact@killiandalcin.fr-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@killiandalcin.fr)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Available-brightgreen?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/mr_kayjaydee)
+Co-developing **Mythlane** — a Hytale MMORPG — as a showcase for every plugin I ship.
 
-![Profile Views](https://komarev.com/ghpvc/?username=mr-kayjaydee&color=brightgreen&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/mr-kayjaydee?style=for-the-badge&color=blue)
+[![Portfolio](https://img.shields.io/badge/Portfolio-killiandalcin.fr-85cb85?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://killiandalcin.fr/)
+[![Gitea](https://img.shields.io/badge/Gitea-gitea.kamisama.ovh-609926?style=for-the-badge&logo=gitea&logoColor=white)](https://gitea.kamisama.ovh/kayjaydee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-killian--dal--cin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/killian-dal-cin)
+[![Email](https://img.shields.io/badge/Email-contact@killiandalcin.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@killiandalcin.fr)
+
+![Profile Views](https://komarev.com/ghpvc/?username=mr-kayjaydee&color=85cb85&style=for-the-badge)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🎯 What I Do
 
-**Experienced full stack developer** passionate about creating scalable web applications and innovative solutions. With years of professional experience in **Vue.js**, **React**, **Node.js**, and modern JavaScript technologies, I deliver high-quality code that exceeds client expectations.
+I build **custom Hytale plugins** in Kotlin and Java for server owners who want their world to stand out — not another "kit PvP clone". I also ship **full-stack web applications** (Nuxt, Vue, React, Node.js) for gaming servers, agencies, and side-projects.
 
-🎯 **Specializing in:**
+Every plugin I sell runs in production on **Mythlane**, the MMORPG I'm co-developing. That's the difference between "I can code this" and "I have shipped this".
 
--   🌐 **Enterprise Web Applications**
--   🛒 **E-commerce Platforms**
--   💼 **SaaS Products**
--   🤖 **Custom Software Solutions**
--   ⚡ **Real-time Systems & APIs**
+### Currently available for
 
-## 💼 Professional Services
+- ⚔️ **Hytale custom plugins** — gameplay systems, economy, quests, minigames, MMO infrastructure
+- 🌐 **Gaming server websites** — vote-rewards, admin dashboards, Tebex-integrated storefronts, SEO-optimized SSR
+- 🔧 **Monthly retainers** — ~12h/month priority queue for servers that keep shipping features
 
-<div align="center">
+Pricing, scopes, and contact on [killiandalcin.fr/hytale](https://killiandalcin.fr/hytale).
 
-### 🌟 Featured Services on Fiverr
+---
 
-_Top-rated seller with 100% satisfaction guarantee_
+## 🛠️ Stack
 
-[![Fiverr Rating](https://img.shields.io/badge/⭐%20Rating-5.0/5.0-yellow?style=for-the-badge)](https://www.fiverr.com/mr_kayjaydee)
-[![Orders Completed](https://img.shields.io/badge/Orders-100%2B%20Completed-success?style=for-the-badge)](https://www.fiverr.com/mr_kayjaydee)
+### Hytale / Gaming
 
-</div>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft_Plugins-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 
-| Service                             | Starting Price | Status         |
-| ----------------------------------- | -------------- | -------------- |
-| 🤖 **Discord Bot Development**      | $25            | ✅ Available   |
-| ⛏️ **Minecraft Plugin Development** | $50            | ✅ Available   |
-| 📱 **Telegram Bot Services**        | $20            | 🔄 Coming Soon |
-| 🌐 **Modern Website Development**   | $50            | 🔄 Coming Soon |
+### Web Full-Stack
 
-## 🛠️ Technical Expertise
-
-### **Core Technologies**
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt_4-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-</div>
+### Infrastructure & Tools
 
-### **Frontend Development**
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-### **Backend & Databases**
-
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</div>
-
-### **DevOps & Tools**
-
-<div align="center">
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
+---
 
-## 📈 GitHub Analytics
+## 🎮 Featured Work
+
+### ⚔️ Hytale Plugins *(shipping Phase 10 — 2026)*
+Production-ready custom plugins built in Kotlin, showcased on Mythlane. First public drop: **GravityFlip Region** (gravity-inverted zones), then **ChainLightning Sceptre**, **ShadowClone Decoy**, **GrapplingHook**, **EarthquakeSlam**.
+
+### 🌐 killiandalcin.fr
+Nuxt 4 SSR portfolio with bilingual blog, full SEO (JSON-LD, hreflang sitemap, structured data), Hytale-first positioning. Ships production via Docker + Traefik.
+
+### 🤖 Discord Bots & Automation
+Years of bot development for communities — moderation, economy, mini-games, Crowdin sync, cross-platform integrations.
+
+### 🏢 Enterprise Apps
+React/Vue admin dashboards, Node.js APIs, SaaS platforms — full-stack delivery for real-world business needs.
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -108,62 +86,32 @@ _Top-rated seller with 100% satisfaction guarantee_
 
 </div>
 
-<div align="center">
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mr-kayjaydee&theme=tokyonight&hide_border=true)
+## 🧭 How I Work
 
-</div>
+**Performance-first** — Optimized code, profiled in production, actual benchmarks (not just "it works on my machine").
 
-## 🏆 Development Philosophy
+**Scalable architecture** — Modular Kotlin / clean TypeScript, hub-and-spoke patterns, sensible abstractions. No over-engineering.
 
-### **🎯 Performance-First Development**
+**Transparent collaboration** — Clear specs, realistic scopes, Discord-direct communication, no vaporware. I under-promise and over-deliver, not the reverse.
 
-Optimized code with lazy loading, code splitting, and advanced caching strategies. Achieving perfect **Lighthouse scores** and **Core Web Vitals** metrics.
-
-### **🏗️ Scalable Architecture**
-
-Microservices, serverless functions, and modular design patterns. Building applications that scale effortlessly with business growth.
-
-### **🔍 Code Quality & Testing**
-
-Test-driven development (TDD), automated testing, CI/CD pipelines, and comprehensive code reviews ensuring bug-free deployments.
-
-### **🤝 Agile Collaboration**
-
-Excellent communication, agile methodologies, and transparent project management with regular updates and collaborative problem-solving.
-
-## 🎨 Featured Projects
-
-<div align="center">
-
-### 🤖 Discord Bots
-
-_Advanced moderation, economy systems, and custom features_
-
-### ⛏️ Minecraft Plugins
-
-_Custom gameplay mechanics and server management tools_
-
-### 🌐 Web Applications
-
-_Modern, responsive applications with cutting-edge technologies_
-
-</div>
-
-## 📞 Let's Connect & Collaborate
-
-<div align="center">
-
-**Ready to bring your ideas to life?**
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blue?style=for-the-badge)](https://killiandalcin.fr/)
-[![Hire Me](https://img.shields.io/badge/💼_Hire_Me-Fiverr-brightgreen?style=for-the-badge)](https://www.fiverr.com/mr_kayjaydee)
-[![Email](https://img.shields.io/badge/📧_Contact-Email_Me-red?style=for-the-badge)](mailto:contact@killiandalcin.fr)
+**Senior positioning, fair pricing** — I don't compete on Fiverr's race-to-the-bottom. Prices are calibrated to the actual Hytale market reality (€149–790 per package, €450/month retainer). See [/hytale](https://killiandalcin.fr/hytale).
 
 ---
 
-_"Building tomorrow's web, today."_
+## 📞 Work With Me
 
-**⚡ Fast delivery • 🔄 Unlimited revisions • 🎯 100% satisfaction guarantee**
+<div align="center">
+
+**Looking for a plugin dev who actually ships?**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-killiandalcin.fr-85cb85?style=for-the-badge)](https://killiandalcin.fr/)
+[![Hytale Services](https://img.shields.io/badge/⚔️_Hytale_Services-See_Pricing-blueviolet?style=for-the-badge)](https://killiandalcin.fr/hytale)
+[![Contact](https://img.shields.io/badge/📧_Contact-Get_a_Quote-D14836?style=for-the-badge)](https://killiandalcin.fr/contact)
+
+---
+
+_Every plugin I sell runs in production on Mythlane. Real validation, not marketing promises._
 
 </div>
