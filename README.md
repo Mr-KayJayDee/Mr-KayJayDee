@@ -61,12 +61,25 @@ Pricing, scopes, and contact on [killiandalcin.fr/hytale](https://killiandalcin.
 
 ---
 
-## 🎮 Featured Work
+## 🎮 Featured Work — Live Plugins
 
-### ⚔️ Hytale Plugins *(shipping Phase 10 — 2026)*
-Production-ready custom plugins built in Kotlin, showcased on Mythlane. First public drop: **GravityFlip Region** (gravity-inverted zones), then **ChainLightning Sceptre**, **ShadowClone Decoy**, **GrapplingHook**, **EarthquakeSlam**.
+### 🗳️ [VotePipe](https://votepipe.com) — Hytale Vote Rewards SaaS
+The only Hytale plugin that unifies **Webhook (V1 RSA, V2 HMAC) and Votifier** in one pipeline. Free / Pro / Network tiers, web dashboard with visual reward builder, no port forwarding required, automatic delivery.
+*Stack: Java 25 plugin + TypeScript backend + SaaS dashboard*
+**Live on:** [votepipe.com](https://votepipe.com) · [Modtale](https://modtale.net/mod/votepipe) · [CurseForge](https://www.curseforge.com/hytale/mods/votepipe)
 
-### 🌐 killiandalcin.fr
+### 🌀 [GravityFlip Region](https://modtale.net/mod/gravity-flip) — Hytale Anti-Gravity Zones
+Wand-based region builder for Hytale servers. Mark a zone, gravity flips inside — players walk on ceilings, items fall up. Three visualization modes, JSON persistence, configurable grace period for smooth transitions.
+*Stack: Java 25, Hytale Plugin API, Gradle Shadow, JUnit 5*
+**Live on:** [Modtale](https://modtale.net/mod/gravity-flip) · [CurseForge](https://curseforge.com/hytale/mods/gravity-flip)
+**Read the case study:** [GravityFlip — from client brief to production](https://killiandalcin.fr/blog/gravity-flip-process-client)
+
+### ⏰ [PlayHours](https://www.curseforge.com/minecraft/mc-mods/playhours) — Forge Server Hours Enforcement
+Forge 1.20.1 mod that enforces per-day open windows: blocks logins outside hours, warns at 15/10/5/1 min, auto-kicks at close, handles holidays, whitelist/blacklist, force modes, LuckPerms integration. Multi-language (EN/FR), dynamic MOTD.
+*Stack: Java 17, Forge 1.20.1, LuckPerms, TOML*
+**Live on:** [CurseForge](https://www.curseforge.com/minecraft/mc-mods/playhours) · [Repo (Gitea)](https://gitea.kamisama.ovh/kayjaydee/PlayHours)
+
+### 🌐 [killiandalcin.fr](https://killiandalcin.fr)
 Nuxt 4 SSR portfolio with bilingual blog, full SEO (JSON-LD, hreflang sitemap, structured data), Hytale-first positioning. Ships production via Docker + Traefik.
 
 ### 🤖 Discord Bots & Automation
